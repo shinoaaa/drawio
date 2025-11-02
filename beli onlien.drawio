@@ -146,7 +146,7 @@
         <mxCell id="sDHTDCy_tU3myosC-Crd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="sDHTDCy_tU3myosC-Crd-35" target="sDHTDCy_tU3myosC-Crd-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sDHTDCy_tU3myosC-Crd-42" value="Belum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="sDHTDCy_tU3myosC-Crd-38" vertex="1" connectable="0">
+        <mxCell id="sDHTDCy_tU3myosC-Crd-42" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Belum&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="sDHTDCy_tU3myosC-Crd-38" vertex="1" connectable="0">
           <mxGeometry x="-0.0078" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -154,7 +154,7 @@
         <mxCell id="sDHTDCy_tU3myosC-Crd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;" parent="1" source="sDHTDCy_tU3myosC-Crd-35" target="sDHTDCy_tU3myosC-Crd-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sDHTDCy_tU3myosC-Crd-41" value="Sudah" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="sDHTDCy_tU3myosC-Crd-40" vertex="1" connectable="0">
+        <mxCell id="sDHTDCy_tU3myosC-Crd-41" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sudah&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="sDHTDCy_tU3myosC-Crd-40" vertex="1" connectable="0">
           <mxGeometry x="0.5447" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -194,7 +194,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sDHTDCy_tU3myosC-Crd-57" value="Belum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="sDHTDCy_tU3myosC-Crd-53" vertex="1" connectable="0">
+        <mxCell id="sDHTDCy_tU3myosC-Crd-57" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(4, 4, 4));&quot;&gt;Belum&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="sDHTDCy_tU3myosC-Crd-53" vertex="1" connectable="0">
           <mxGeometry x="-0.0996" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -202,7 +202,7 @@
         <mxCell id="sDHTDCy_tU3myosC-Crd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;" parent="1" source="sDHTDCy_tU3myosC-Crd-50" target="sDHTDCy_tU3myosC-Crd-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sDHTDCy_tU3myosC-Crd-60" value="Sudah" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="sDHTDCy_tU3myosC-Crd-59" vertex="1" connectable="0">
+        <mxCell id="sDHTDCy_tU3myosC-Crd-60" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sudah&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="sDHTDCy_tU3myosC-Crd-59" vertex="1" connectable="0">
           <mxGeometry x="-0.0663" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

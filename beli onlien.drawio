@@ -119,23 +119,24 @@
             <mxRectangle width="216.05627705627717" height="750" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0LHY1m5dbvM2dBtEqbah-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="sDHTDCy_tU3myosC-Crd-27" target="sDHTDCy_tU3myosC-Crd-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0LHY1m5dbvM2dBtEqbah-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sDHTDCy_tU3myosC-Crd-27" target="0LHY1m5dbvM2dBtEqbah-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="164" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sDHTDCy_tU3myosC-Crd-27" value="&lt;font&gt;Mulai&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#09555B;fontColor=#EEEEEE;strokeColor=#BAC8D3;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="471" y="87" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0LHY1m5dbvM2dBtEqbah-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="sDHTDCy_tU3myosC-Crd-29" target="sDHTDCy_tU3myosC-Crd-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sDHTDCy_tU3myosC-Crd-29" value="Pelanggan sudah login dan membeli produk" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="428" y="166" width="166" height="83" as="geometry" />
+        <mxCell id="0LHY1m5dbvM2dBtEqbah-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0LHY1m5dbvM2dBtEqbah-7" target="sDHTDCy_tU3myosC-Crd-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="511" y="249" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sDHTDCy_tU3myosC-Crd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" parent="1" source="sDHTDCy_tU3myosC-Crd-39" target="sDHTDCy_tU3myosC-Crd-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sDHTDCy_tU3myosC-Crd-39" value="Pelanggan membayar dan mengunggah bukti pembayaran" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="432" y="314" width="158" height="82.5" as="geometry" />
+          <mxGeometry x="432" y="298" width="158" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="sDHTDCy_tU3myosC-Crd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" parent="1" source="sDHTDCy_tU3myosC-Crd-44" target="sDHTDCy_tU3myosC-Crd-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -193,6 +194,9 @@
         </mxCell>
         <mxCell id="sDHTDCy_tU3myosC-Crd-68" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1108" y="870.38" width="144" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="0LHY1m5dbvM2dBtEqbah-7" value="Pelanggan sudah login dan memilih produk" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="429" y="166" width="164" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

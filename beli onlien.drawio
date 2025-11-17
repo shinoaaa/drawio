@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Halaman-1" id="i3YvyUmaH43dsLSeMZaV">
-    <mxGraphModel dx="1183" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sDHTDCy_tU3myosC-Crd-2" value="Proses pembelian ikan secara lewat online" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=left;resizeLast=1;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="373" y="14" width="907.2380952380954" height="1141" as="geometry" />
+          <mxGeometry x="373" y="3" width="907.2380952380954" height="1141" as="geometry" />
         </mxCell>
         <mxCell id="sDHTDCy_tU3myosC-Crd-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;labelBackgroundColor=none;" parent="sDHTDCy_tU3myosC-Crd-2" vertex="1">
           <mxGeometry y="30" width="907.2380952380954" height="26" as="geometry" />
@@ -180,17 +180,18 @@
         <mxCell id="sDHTDCy_tU3myosC-Crd-58" value="Kasir menyeutujui pesanan" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="640.75" y="781.75" width="172" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="VZvSVaPiNEdFvd5f6Auo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="sDHTDCy_tU3myosC-Crd-63" target="sDHTDCy_tU3myosC-Crd-66">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VZvSVaPiNEdFvd5f6Auo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="sDHTDCy_tU3myosC-Crd-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1097" y="957.3849999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sDHTDCy_tU3myosC-Crd-63" value="Transaksi akan dicatat di laporan serta riwayat pembelian pelanggan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="850" y="895.88" width="197.5" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="VZvSVaPiNEdFvd5f6Auo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="sDHTDCy_tU3myosC-Crd-66" target="sDHTDCy_tU3myosC-Crd-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sDHTDCy_tU3myosC-Crd-66" value="Owner melihat laporan dan mengambil keputusan dengan data yang tersedia" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1097" y="914.5099999999999" width="160" height="85.75" as="geometry" />
+        <mxCell id="VZvSVaPiNEdFvd5f6Auo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" target="sDHTDCy_tU3myosC-Crd-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1177" y="1000.2599999999995" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sDHTDCy_tU3myosC-Crd-68" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1105" y="1051" width="144" height="77" as="geometry" />
@@ -212,6 +213,9 @@
         </mxCell>
         <mxCell id="VZvSVaPiNEdFvd5f6Auo-31" value="kasir mengirim&lt;div&gt;&amp;nbsp;pesanan&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
           <mxGeometry x="650.08" y="911.38" width="153.33" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="VZvSVaPiNEdFvd5f6Auo-61" value="Owner mengambil keputusan dari data yang tersedia" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="917.6299999999999" width="160" height="85.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

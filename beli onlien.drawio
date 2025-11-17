@@ -204,7 +204,7 @@
         <mxCell id="VZvSVaPiNEdFvd5f6Auo-2" value="pelanggan membayar" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="249" width="155.5" height="77.75" as="geometry" />
         </mxCell>
-        <mxCell id="VZvSVaPiNEdFvd5f6Auo-29" value="pelanggan membayar" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="VZvSVaPiNEdFvd5f6Auo-29" value="pelanggan mengunggah bukti pembayaran" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="375" width="155.5" height="77.75" as="geometry" />
         </mxCell>
         <mxCell id="VZvSVaPiNEdFvd5f6Auo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="VZvSVaPiNEdFvd5f6Auo-31" target="sDHTDCy_tU3myosC-Crd-63">

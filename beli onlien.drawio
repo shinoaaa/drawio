@@ -140,13 +140,13 @@
         <mxCell id="VZvSVaPiNEdFvd5f6Auo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="pelanggan membayar" vertex="1">
           <mxGeometry height="77.75" width="155.5" x="437.5" y="249" as="geometry" />
         </mxCell>
-        <mxCell id="AedHHyit6JF0fsf5Cuox-7" edge="1" parent="1" source="VZvSVaPiNEdFvd5f6Auo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="AedHHyit6JF0fsf5Cuox-6">
+        <mxCell id="AedHHyit6JF0fsf5Cuox-7" edge="1" parent="1" source="VZvSVaPiNEdFvd5f6Auo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="AedHHyit6JF0fsf5Cuox-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VZvSVaPiNEdFvd5f6Auo-31" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Kasir mengemas&amp;nbsp;&lt;div&gt;barang&lt;div&gt;yang dipesan&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="92" width="153.33" x="641.93" y="631.38" as="geometry" />
         </mxCell>
-        <mxCell id="AedHHyit6JF0fsf5Cuox-5" edge="1" parent="1" source="AedHHyit6JF0fsf5Cuox-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="AedHHyit6JF0fsf5Cuox-4">
+        <mxCell id="AedHHyit6JF0fsf5Cuox-5" edge="1" parent="1" source="AedHHyit6JF0fsf5Cuox-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="AedHHyit6JF0fsf5Cuox-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="969" y="549" />
@@ -156,7 +156,7 @@
         <mxCell id="AedHHyit6JF0fsf5Cuox-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Database&amp;nbsp;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="118" width="118" x="906" y="355.5" as="geometry" />
         </mxCell>
-        <mxCell id="AedHHyit6JF0fsf5Cuox-3" edge="1" parent="1" source="sDHTDCy_tU3myosC-Crd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" target="AedHHyit6JF0fsf5Cuox-2">
+        <mxCell id="AedHHyit6JF0fsf5Cuox-3" edge="1" parent="1" source="sDHTDCy_tU3myosC-Crd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="AedHHyit6JF0fsf5Cuox-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AedHHyit6JF0fsf5Cuox-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Kasir mendapat notifikasi&amp;nbsp;&lt;div&gt;pembelian&lt;/div&gt;" vertex="1">

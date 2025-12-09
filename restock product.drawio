@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.6">
   <diagram name="Halaman-1" id="DAXJmvUFA46JfW3CqsqJ">
-    <mxGraphModel dx="-471" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="-603" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
         <mxCell id="L-SnOIBWLLEWckYlH0y9-38" edge="1" parent="1" source="L-SnOIBWLLEWckYlH0y9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="L-SnOIBWLLEWckYlH0y9-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L-SnOIBWLLEWckYlH0y9-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Owner melihat tren penjualan dan memberikan persetujuan dari sana" vertex="1">
+        <mxCell id="L-SnOIBWLLEWckYlH0y9-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Owner melihat tren penjualan lalu memberikan persetujuan dari sana" vertex="1">
           <mxGeometry height="87" width="174" x="2851.21" y="422" as="geometry" />
         </mxCell>
         <mxCell id="L-SnOIBWLLEWckYlH0y9-40" edge="1" parent="1" source="L-SnOIBWLLEWckYlH0y9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="L-SnOIBWLLEWckYlH0y9-39">
@@ -179,7 +179,7 @@
         <mxCell id="L-SnOIBWLLEWckYlH0y9-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Kasir memesan barang yang disetujui oleh owner" vertex="1">
           <mxGeometry height="95" width="190" x="2381" y="574.5" as="geometry" />
         </mxCell>
-        <mxCell id="L-SnOIBWLLEWckYlH0y9-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="ketika barang sampai,kasir akan mengubah status pengiriman di aplikasi menjadi sampai" vertex="1">
+        <mxCell id="L-SnOIBWLLEWckYlH0y9-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="kasir mengubah status pengiriman menjadi sampai" vertex="1">
           <mxGeometry height="80" width="153.21" x="2399.39" y="960.5" as="geometry" />
         </mxCell>
         <mxCell id="L-SnOIBWLLEWckYlH0y9-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Selesai" vertex="1">
@@ -188,7 +188,7 @@
         <mxCell id="f7190YqTA4s-aNMzyDg3-4" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Kasir Login ke aplikasi" vertex="1">
           <mxGeometry height="80" width="120" x="2415.9900000000002" y="175" as="geometry" />
         </mxCell>
-        <mxCell id="MTnobOwQUEeghT3XhuXl-5" edge="1" parent="1" source="f7190YqTA4s-aNMzyDg3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="MTnobOwQUEeghT3XhuXl-4">
+        <mxCell id="MTnobOwQUEeghT3XhuXl-5" edge="1" parent="1" source="f7190YqTA4s-aNMzyDg3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="MTnobOwQUEeghT3XhuXl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f7190YqTA4s-aNMzyDg3-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="vendor mengecek permintaan barang" vertex="1">
@@ -209,7 +209,7 @@
         <mxCell id="MTnobOwQUEeghT3XhuXl-1" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="vendor mengirim&amp;nbsp;&lt;div&gt;barang pesanan serta&lt;/div&gt;&lt;div&gt;notanya&lt;/div&gt;" vertex="1">
           <mxGeometry height="95" width="158.33" x="2119.84" y="953" as="geometry" />
         </mxCell>
-        <mxCell id="MTnobOwQUEeghT3XhuXl-6" edge="1" parent="1" source="MTnobOwQUEeghT3XhuXl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="MTnobOwQUEeghT3XhuXl-1">
+        <mxCell id="MTnobOwQUEeghT3XhuXl-6" edge="1" parent="1" source="MTnobOwQUEeghT3XhuXl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="MTnobOwQUEeghT3XhuXl-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MTnobOwQUEeghT3XhuXl-4" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="vendor menyiapkan&lt;div&gt;pesanan&lt;/div&gt;" vertex="1">

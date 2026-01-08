@@ -99,7 +99,7 @@
           <mxGeometry height="94" width="146.88" x="1105.06" y="1114.79" as="geometry" />
         </mxCell>
         <mxCell id="3xCIFjFR5iWqrT9RSNpz-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Selesai" vertex="1">
-          <mxGeometry height="75" width="151.67" x="705.34" y="1114.79" as="geometry" />
+          <mxGeometry height="75" width="151.67" x="705.34" y="1193" as="geometry" />
         </mxCell>
         <mxCell id="225tk7p1K17ryU8GVYUX-13" edge="1" parent="1" source="mr6F5bCmPJFzkWfv-jvX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="225tk7p1K17ryU8GVYUX-11">
           <mxGeometry relative="1" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry height="154" width="115.5" x="1120.75" y="913.79" as="geometry" />
         </mxCell>
         <mxCell id="225tk7p1K17ryU8GVYUX-25" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;fontSize=11;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Kasir Memberi Struk&lt;/span&gt;" vertex="1">
-          <mxGeometry height="119" width="198.35" x="682" y="908.79" as="geometry" />
+          <mxGeometry height="119" width="198.35" x="682" y="940" as="geometry" />
         </mxCell>
         <mxCell id="225tk7p1K17ryU8GVYUX-27" edge="1" parent="1" source="225tk7p1K17ryU8GVYUX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="225tk7p1K17ryU8GVYUX-14">
           <mxGeometry relative="1" as="geometry" />

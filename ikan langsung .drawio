@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Halaman-1" id="4g9wqlBrjWph4zrBa3ej">
-    <mxGraphModel dx="2365" dy="1493" grid="0" gridSize="22" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="995" grid="0" gridSize="22" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,13 +145,13 @@
         <mxCell id="225tk7p1K17ryU8GVYUX-30" edge="1" parent="1" source="225tk7p1K17ryU8GVYUX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="3xCIFjFR5iWqrT9RSNpz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ibBtEHH-oJYHcihBFQ0g-5" edge="1" parent="1" source="ibBtEHH-oJYHcihBFQ0g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="ibBtEHH-oJYHcihBFQ0g-4">
+        <mxCell id="bO_-4lwUrl1cVJD1Os-P-2" edge="1" parent="1" source="ibBtEHH-oJYHcihBFQ0g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="ibBtEHH-oJYHcihBFQ0g-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ibBtEHH-oJYHcihBFQ0g-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Selesai" vertex="1">
           <mxGeometry height="75" width="151.67" x="334.02000000000004" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="ibBtEHH-oJYHcihBFQ0g-6" edge="1" parent="1" source="ibBtEHH-oJYHcihBFQ0g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="ebpV5Svk6E3Jlwyji_Mv-1">
+        <mxCell id="bO_-4lwUrl1cVJD1Os-P-1" edge="1" parent="1" source="ibBtEHH-oJYHcihBFQ0g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="ebpV5Svk6E3Jlwyji_Mv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ibBtEHH-oJYHcihBFQ0g-4" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;fontSize=11;" value="Pelanggan datang ke&amp;nbsp;&lt;div&gt;toko&lt;/div&gt;" vertex="1">

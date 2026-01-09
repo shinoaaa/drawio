@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram name="Halaman-1" id="DAXJmvUFA46JfW3CqsqJ">
-    <mxGraphModel dx="-303" dy="2022" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="238" dy="2363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,15 +189,6 @@
         <mxCell id="f7190YqTA4s-aNMzyDg3-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="vendor mengecek permintaan barang" vertex="1">
           <mxGeometry height="95" width="190" x="2104.01" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="f7190YqTA4s-aNMzyDg3-17" edge="1" parent="1" source="f7190YqTA4s-aNMzyDg3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="L-SnOIBWLLEWckYlH0y9-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f7190YqTA4s-aNMzyDg3-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="database&lt;div&gt;&amp;nbsp;produk&lt;/div&gt;" vertex="1">
-          <mxGeometry height="81" width="135" x="2646" y="960.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f7190YqTA4s-aNMzyDg3-16" edge="1" parent="1" source="L-SnOIBWLLEWckYlH0y9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="f7190YqTA4s-aNMzyDg3-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MTnobOwQUEeghT3XhuXl-3" edge="1" parent="1" source="MTnobOwQUEeghT3XhuXl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="L-SnOIBWLLEWckYlH0y9-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -242,6 +233,15 @@
           <mxGeometry height="94" width="156.67" x="2653.5" y="92" as="geometry" />
         </mxCell>
         <mxCell id="7uU7TpNW9IDx-ZnouToq-2" edge="1" parent="1" source="L-SnOIBWLLEWckYlH0y9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="7uU7TpNW9IDx-ZnouToq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uU7TpNW9IDx-ZnouToq-7" edge="1" parent="1" source="7uU7TpNW9IDx-ZnouToq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" target="L-SnOIBWLLEWckYlH0y9-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uU7TpNW9IDx-ZnouToq-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" value="database&lt;div&gt;&amp;nbsp;produk&lt;/div&gt;" vertex="1">
+          <mxGeometry height="114" width="114" x="2656.5" y="943.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7uU7TpNW9IDx-ZnouToq-6" edge="1" parent="1" source="L-SnOIBWLLEWckYlH0y9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" target="7uU7TpNW9IDx-ZnouToq-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

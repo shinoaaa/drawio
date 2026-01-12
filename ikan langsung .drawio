@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Halaman-1" id="4g9wqlBrjWph4zrBa3ej">
-    <mxGraphModel dx="631" dy="398" grid="0" gridSize="22" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="2703" dy="1706" grid="0" gridSize="22" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pB_8o41zfCFh5Qzu2Ewc-7" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=left;resizeLast=1;html=1;strokeColor=#BAC8D3;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(252, 252, 252));&quot;&gt;Proses pembelian ikan Offline&lt;/font&gt;" vertex="1">
+        <mxCell id="pB_8o41zfCFh5Qzu2Ewc-7" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=left;resizeLast=1;html=1;strokeColor=#BAC8D3;labelBackgroundColor=none;fillColor=#09555B;fontColor=#EEEEEE;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(1, 1, 1));&quot;&gt;Proses pembelian ikan Offline&lt;/font&gt;" vertex="1">
           <mxGeometry height="1299.2119963369962" width="1086.6153846153848" x="278" y="9" as="geometry" />
         </mxCell>
         <mxCell id="pB_8o41zfCFh5Qzu2Ewc-8" parent="pB_8o41zfCFh5Qzu2Ewc-7" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#EEEEEE;" value="" vertex="1">
@@ -148,7 +148,7 @@
         <mxCell id="bO_-4lwUrl1cVJD1Os-P-2" edge="1" parent="1" source="ibBtEHH-oJYHcihBFQ0g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="ibBtEHH-oJYHcihBFQ0g-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ibBtEHH-oJYHcihBFQ0g-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Selesai" vertex="1">
+        <mxCell id="ibBtEHH-oJYHcihBFQ0g-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Mulai" vertex="1">
           <mxGeometry height="75" width="151.67" x="334.02000000000004" y="80" as="geometry" />
         </mxCell>
         <mxCell id="bO_-4lwUrl1cVJD1Os-P-1" edge="1" parent="1" source="ibBtEHH-oJYHcihBFQ0g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="ebpV5Svk6E3Jlwyji_Mv-1">

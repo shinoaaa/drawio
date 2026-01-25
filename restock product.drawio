@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Halaman-1" id="DAXJmvUFA46JfW3CqsqJ">
-    <mxGraphModel dx="238" dy="2363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="-77" dy="2164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,17 +119,17 @@
             <mxRectangle height="1095" width="230.7692307692305" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-SnOIBWLLEWckYlH0y9-28" edge="1" parent="1" source="L-SnOIBWLLEWckYlH0y9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="f7190YqTA4s-aNMzyDg3-4">
+        <mxCell id="L-SnOIBWLLEWckYlH0y9-28" edge="1" parent="1" source="L-SnOIBWLLEWckYlH0y9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="rNifJKhaAafd6Q6h0v1B-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2193.78" y="14" as="targetPoint" />
+            <mxPoint x="2475.9900000000002" y="-6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L-SnOIBWLLEWckYlH0y9-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Mulai" vertex="1">
           <mxGeometry height="60" width="120" x="2415.9900000000002" y="-92" as="geometry" />
         </mxCell>
-        <mxCell id="L-SnOIBWLLEWckYlH0y9-30" edge="1" parent="1" source="f7190YqTA4s-aNMzyDg3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="L-SnOIBWLLEWckYlH0y9-29">
+        <mxCell id="L-SnOIBWLLEWckYlH0y9-30" edge="1" parent="1" source="rNifJKhaAafd6Q6h0v1B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="L-SnOIBWLLEWckYlH0y9-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2193.78" y="74" as="sourcePoint" />
+            <mxPoint x="2475.9900000000002" y="74" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L-SnOIBWLLEWckYlH0y9-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Kasir Mengecek Stok Produk" vertex="1">
@@ -179,9 +179,6 @@
         </mxCell>
         <mxCell id="L-SnOIBWLLEWckYlH0y9-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Selesai" vertex="1">
           <mxGeometry height="60" width="120" x="2653.5" y="1090" as="geometry" />
-        </mxCell>
-        <mxCell id="f7190YqTA4s-aNMzyDg3-4" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;labelBackgroundColor=none;" value="Kasir Login ke aplikasi" vertex="1">
-          <mxGeometry height="80" width="120" x="2415.9900000000002" y="-6" as="geometry" />
         </mxCell>
         <mxCell id="XjqZu5YOT_SPrJJsqNBP-1" edge="1" parent="1" source="f7190YqTA4s-aNMzyDg3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="MTnobOwQUEeghT3XhuXl-4">
           <mxGeometry relative="1" as="geometry" />
@@ -243,6 +240,9 @@
         </mxCell>
         <mxCell id="7uU7TpNW9IDx-ZnouToq-6" edge="1" parent="1" source="L-SnOIBWLLEWckYlH0y9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" target="7uU7TpNW9IDx-ZnouToq-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNifJKhaAafd6Q6h0v1B-1" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Kasir sudah login ke dalam aplikasi" vertex="1">
+          <mxGeometry height="70" width="140" x="2405.99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
